@@ -34,7 +34,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<div style=\"text-align:center\">\n  <br>\n  <br>\n  <h1>\n    Welcome to {{title}}!\n  </h1>\n  <br>\n  <p>This awesome personal page is still under contruction. Please come back soon.</p>\n  <br>\n  <a href=\"https://twitter.com/#!/jayamorin\" title=\"Follow @jayamorin on Twitter\">Twitter</a>\n  <a href=\"https://github.com/jayamorin\" title=\"Follow @jayamorin on GitHub\">GitHub</a>\n  <a href=\"https://www.linkedin.com/in/jayamorin\" title=\"Join my Network on LinkedIn\">LinkedIn</a>\n</div>\n"
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<div style=\"text-align:center\">\n  <br>\n  <br>\n  <br>\n  <br>\n  <br>\n  <h1>\n    Welcome to {{title}}!\n  </h1>\n  <br>\n  <p>This awesome personal page is still under contruction. Please come back soon.</p>\n  <br>\n  <a href=\"https://twitter.com/#!/jayamorin\" title=\"Follow @jayamorin on Twitter\">Twitter</a> &nbsp; | &nbsp;\n  <a href=\"https://github.com/jayamorin\" title=\"Follow @jayamorin on GitHub\">GitHub</a> &nbsp; | &nbsp;\n  <a href=\"https://www.linkedin.com/in/jayamorin\" title=\"Join my Network on LinkedIn\">LinkedIn</a>\n</div>\n"
 
 /***/ }),
 
@@ -53,7 +53,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 var AppComponent = (function () {
     function AppComponent() {
-        this.title = 'www.jayamorin.com';
+        this.title = 'my personal webpage';
     }
     return AppComponent;
 }());
