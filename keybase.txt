@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jayamorin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jayamorin.com
+  * I am jayamorin (https://keybase.io/jayamorin) on keybase.
+  * I have a public key ASA47ZAG3aodD-RSViOoXN_eCLnnlwCbHiayOjunwko4QQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012038ed9006ddaa1d0fe4525623a85cdfde08b9e797009b1e26b23a3ba7c24a38410a",
+      "host": "keybase.io",
+      "kid": "012038ed9006ddaa1d0fe4525623a85cdfde08b9e797009b1e26b23a3ba7c24a38410a",
+      "uid": "328b7e58782c9791e9d7e4dc83b9b119",
+      "username": "jayamorin"
+    },
+    "merkle_root": {
+      "ctime": 1582134623,
+      "hash": "179318508c422e0adf52aa3e073795271410aaa4d73823a5db200976519b330b9e968732bfdd3b41914a6fb0d82b3746bb643995c678d60eb6e8ad633d50e26b",
+      "hash_meta": "00f73ff85e8d6547e459e6d985bf5ecc53b03c889b5b9649da390d1bae3a4216",
+      "seqno": 14651078
+    },
+    "service": {
+      "entropy": "F98FElh19y6WCGR0nkhEt5Y0",
+      "hostname": "jayamorin.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1582134632,
+  "expire_in": 504576000,
+  "prev": "a972d91eee818e3cb456436db9a9c81df2d826879b7908e180983f846e1bf2d4",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOO2QBt2qHQ/kUlYjqFzf3gi555cAmx4msjo7p8JKOEEKp3BheWxvYWTESpcCDsQgqXLZHu6Bjjy0VkNtuanIHfLYJoebeQjhgJg/hG4b8tTEIB3huFJV2z5yqPvpZ6kQ7QyTOaKsLehKfJJLSaAkNeYMAgHCo3NpZ8RAQULGOktB2f6wyC6sxStuc5yNqHq7Q6qJ9SoTyMHtw2lPQaHksgo9TEqTp5ozvmmd6ENZCugu/X0rEmDPUeNAD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFOfVxIab5nZEVztt1g+ite/OalUqZ5aD1jSPOp/N6G8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jayamorin
+
+==================================================================
