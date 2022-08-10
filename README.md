@@ -1,5 +1,5 @@
 # jayamorin.github.io
-URL: [www.jayamorin.com](http://www.jayamorin.com)
+URL: [jayamorin.github.io](http://jayamorin.github.io)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
